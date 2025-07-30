@@ -1,8 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@theme {
-    --font-family-sans: "Inter", sans-serif;
-    --color-primary: oklch(50% 0.2 250)
-}

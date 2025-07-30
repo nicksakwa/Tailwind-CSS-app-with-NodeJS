@@ -553,10 +553,3 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
-
-@theme {
-  --font-family-sans: "Inter", sans-serif;
-
-  --color-primary: oklch(50% 0.2 250)
-
-}
