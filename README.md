@@ -23,6 +23,10 @@ To execute the app in this repository
 1.  Navigate to the directory containing the  files in your terminal.
 2.  Run the desired script in the terminal:
     ```bash
+    npm run build
+    ```
+3.  Run a watch for any code changes in HTML & CSS 
+    ```bash
     npm run watch
     ```
 Runs the app in development mode.
